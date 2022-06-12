@@ -1,0 +1,23 @@
+{
+  "personInfo": {
+    "name": "zhang san",
+    "IDNumber": "610***",
+    "phone": 13890000000,
+    "age": 22
+  },
+  "airplaneInfo": {
+    "company": "China Eastern Airlines",
+    "airplaneId": 123,
+    "airplaneType": "A380",
+    "startTime": "2022-06-11 10:00:00",
+    "arriveTime": "2022-06-11 14:00:00",
+    "price": 500,
+    "locationFrom": "Xian",
+    "locationTo": "Beijing"
+  },
+  "businessCard": {
+    "id": 12345,
+    "expiredDate": "2032-06-11 10:00:00"
+  }
+}
+
